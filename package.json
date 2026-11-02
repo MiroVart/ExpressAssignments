@@ -1,0 +1,31 @@
+{
+  "name": "nodeassignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroVart/WebAssignments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MiroVart/WebAssignments/issues"
+  },
+  "homepage": "https://github.com/MiroVart/WebAssignments#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.14.0",
+    "globals": "^17.14.0",
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
