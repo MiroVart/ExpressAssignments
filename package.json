@@ -4,22 +4,22 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js",
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MiroVart/WebAssignments.git"
+    "url": "git+https://github.com/MiroVart/ExpressAssignments.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/MiroVart/WebAssignments/issues"
+    "url": "https://github.com/MiroVart/ExpressAssignments/issues"
   },
-  "homepage": "https://github.com/MiroVart/WebAssignments#readme",
+  "homepage": "https://github.com/MiroVart/ExpressAssignments#readme",
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "eslint": "^10.14.0",
